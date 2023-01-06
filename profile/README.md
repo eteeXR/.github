@@ -10,7 +10,7 @@
 
 <p align="center">
    <a href="https://github.com/eteeXR">
-     <img src="img/etee_gradient_logo.png" alt="Logo" width="150">
+     <img src="https://github.com/eteeXR/.github/blob/1e3abc37248b443f5f4bdba451ea7aadb40db5e9/profile/img/etee_gradient_logo.png" alt="Logo" width="150">
    </a>
    <br>
    <a href="https://github.com/orgs/eteeXR/repositories"><strong>Explore the repositories »</strong></a>
@@ -28,7 +28,7 @@
 
 <!-- ABOUT US -->
 ### About Us
-<img align="right" height="250" src="./img/eteeControllers_in_hand.png" alt="eteeController held in hand">
+<img align="right" height="250" src="https://github.com/eteeXR/.github/blob/1e3abc37248b443f5f4bdba451ea7aadb40db5e9/profile/img/eteeControllers_in_hand.png" alt="eteeController held in hand">
 
 The [eteeControllers][url-eteexr-website] are the first-of-its-kind finger, gesture and pressure sensing controllers 
 for VR and non-VR applications.
