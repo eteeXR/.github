@@ -48,7 +48,7 @@ Here, you will be able to access a variety of **open-source repositories** for t
 
 - **Developer APIs**:
   - etee Python API ([link here][url-repo-python-api]) and documentation ([link here][url-documentation-python-api])
-
+  - etee Unity API ([link here][url-repo-unity-api]) and documentation ([link here][url-documentation-unity-api])
 
 - **Assets**:
   - 3D models of eteeController components ([link here][url-repo-eteecontroller-3d-models])
@@ -89,5 +89,7 @@ For further support or queries, you can contact us through:
 [url-tg0-website]: https://tg0.co.uk/
 [url-eteexr-website]: https://eteexr.com/
 [url-repo-python-api]: https://github.com/eteeXR/etee-Python-API
-[url-documentation-python-api]:https://tg0-etee-python-api.readthedocs-hosted.com/en/latest/index.html#
+[url-documentation-python-api]: https://tg0-etee-python-api.readthedocs-hosted.com/en/latest/index.html#
+[url-repo-unity-api]: https://github.com/eteeXR/etee-Unity-API
+[url-documentation-unity-api]: https://github.com/eteeXR/etee-Unity-API#readme
 [url-repo-eteecontroller-3d-models]: https://github.com/eteeXR/eteeController-3D-models
